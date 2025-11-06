@@ -133,3 +133,5 @@ return 0;
 <img width="940" height="335" alt="image" src="https://github.com/user-attachments/assets/86e41024-319d-46bc-b88c-5d85c36cbd6b" />
 
 # RESULT
+
+The program is executed successfully.
